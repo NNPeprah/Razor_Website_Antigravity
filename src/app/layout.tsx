@@ -4,11 +4,11 @@ import SmoothScroll from "@/components/motion/SmoothScroll";
 import CustomCursor from "@/components/motion/CustomCursor";
 
 export const metadata: Metadata = {
-  title: "AURA & STONE | Monolithic Architecture & Private Residences",
+  title: "RAZOR | Monolithic Architecture & Private Residences",
   description:
     "Sculpting light, stone, and space into enduring residential and institutional sanctuaries worldwide.",
   openGraph: {
-    title: "AURA & STONE | Monolithic Architecture & Private Residences",
+    title: "RAZOR | Monolithic Architecture & Private Residences",
     description:
       "Sculpting light, stone, and space into enduring residential and institutional sanctuaries worldwide.",
     type: "website",

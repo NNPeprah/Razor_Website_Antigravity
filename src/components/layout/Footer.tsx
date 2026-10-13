@@ -128,15 +128,15 @@ export default function Footer({ onOpenInquiry }: FooterProps) {
 
         {/* Massive Editorial Display Wordmark (inspired by leome-and-partners footer-text-display) */}
         <div className="my-12 md:my-16 text-center select-none overflow-hidden">
-          <div className="text-[12vw] font-light tracking-tighter text-slate-800/40 uppercase leading-none whitespace-nowrap hover:text-slate-700/60 transition-colors duration-700">
-            AURA <span className="text-sky-400/30">&</span> STONE
+          <div className="text-[16vw] font-light tracking-tighter text-slate-800/40 uppercase leading-none whitespace-nowrap hover:text-slate-700/60 transition-colors duration-700">
+            RAZOR<span className="text-sky-400/30">.</span>
           </div>
         </div>
 
         {/* Bottom Legal, Dynamic Year, and Back-to-Top */}
         <div className="pt-8 border-t border-slate-800/60 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-mono text-slate-500">
           <div className="flex items-center gap-6">
-            <span>© {year} Aura & Stone Architects. All rights reserved.</span>
+            <span>© {year} Razor Architects. All rights reserved.</span>
             <span className="hidden md:inline">•</span>
             <span className="hidden md:inline text-sky-400/80">Monolithic Architecture & Living</span>
           </div>

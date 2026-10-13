@@ -30,10 +30,10 @@ export interface MetricItem {
 }
 
 export const SITE_METADATA = {
-  studioName: "AURA & STONE",
+  studioName: "RAZOR",
   tagline: "Monolithic Architecture & Bespoke Private Residences",
   description: "Sculpting light, stone, and space into enduring residential and institutional sanctuaries worldwide.",
-  contactEmail: "concierge@auraandstone.com",
+  contactEmail: "concierge@razor-architecture.com",
   locations: ["Zurich", "London", "Geneva", "Oslo"],
   yearEstablished: "2018",
 };

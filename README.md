@@ -1,4 +1,4 @@
-# AURA & STONE — Luxury Architecture & Private Residences
+# RAZOR — Luxury Architecture & Private Residences
 
 An award-caliber, modern website built for high-end architecture, real estate, and luxury residences. Directly inspired by the motion engineering of **[Leome & Partners](https://leome-and-partners.com/)**, this project specializes in fluid, physics-driven web animations, kinetic typography, and smooth inertia scrolling.
 
